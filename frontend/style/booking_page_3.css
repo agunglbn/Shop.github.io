@@ -1,0 +1,119 @@
+/* Header */
+.navbar-brand {
+    font-family: 'Montserrat';
+    font-style: bold;
+    font-weight: 600;
+    font-size: 48px;
+
+    color: #ffcece;
+}
+/* Tutup Header */
+
+/* Order Finish */
+.finish h5 {
+    font-family: 'Montserrat';
+    font-style: bold;
+    font-weight: 600;
+    font-size: 40px;
+    margin-top: 100px;
+
+    color: #000000;
+}
+
+.booking-icon img {
+    margin-top: 20px;
+}
+
+.finish p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    margin-top: 20px;
+
+    color: #000000;
+}
+
+.btn-light{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    color: #000000;
+    border-radius: 10px;
+
+    width: 240px;
+    height: 50px;
+
+    background: #ffcece;
+    box-shadow: 0px 4px 10px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Tutup order finish */
+
+/* Footer */
+.footer {
+    background-color: #636363;
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.footer h1 {
+    font-family: 'Montserrat';
+    font-weight: 300;
+    font-size: 25px;
+
+    color: #FFCECE;
+}
+.footer h2 {
+    font-family: 'Montserrat';
+    font-weight: 800;
+    font-size: 55px;
+    text-transform: uppercase;
+
+    color: #FFCECE;
+}
+
+.footer h3 {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 30px;
+
+    color: #FFCECE;
+}
+.footer h4 {
+    font-family: 'Montserrat';
+    font-weight: 300;
+    font-size: 25px;
+
+    color: #FFCECE;
+}
+.tengah{
+    text-align: center;
+}
+
+.footer p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    color: #FFCECE;
+}
+
+.footer-small {
+    background-color: #FFCECE;
+    text-align: center;
+}
+
+.footer-small p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+
+    margin-top: 20px;
+
+    color: #000000;
+}
+/* Tutup footer */

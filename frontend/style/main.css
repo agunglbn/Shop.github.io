@@ -1,0 +1,29 @@
+.navbar{
+    background: #FFCECE;
+}
+.navbar-brand {
+    color: #000;
+font-size: 48px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.nav-item {
+    color: #000;
+font-size: 15px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.sponsor1 {
+    width: 100%;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+}
+.sponsor2 {
+    width: 100%;
+    aspect-ratio: 4/2;
+    object-fit: contain;
+}
